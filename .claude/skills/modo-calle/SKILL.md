@@ -1,6 +1,6 @@
 ---
 name: modo-calle
-description: Protocolo MODO CALLE — el usuario está fuera de casa con el celular y su PC sigue trabajando. Úsalo cuando diga "modo calle", "salgo", "me voy a la calle", "revisa la bandeja", "actualiza la party", "cómo van los agentes", o cuando una tarea programada diga "MODO CALLE". También para salir del modo con "ya llegué" / "fin modo calle".
+description: Protocolo MODO CALLE — el usuario está fuera de casa con el celular y su PC sigue trabajando. Úsalo cuando diga "modo calle", "me voy a la calle", "revisa la bandeja", "actualiza la party", "cómo van los agentes", o cuando una tarea programada diga "MODO CALLE". También para salir del modo con "ya llegué" / "fin modo calle".
 ---
 
 # Protocolo MODO CALLE
@@ -23,7 +23,10 @@ celular.
   Creada el 7 nov 2026: `trig_01XL7YvMh58moS1KYYRgK4iC`, minuto 57 de cada hora, en la sesión
   `session_01H8VjzzMKXv1z92JYP4dYCQ` ("Control remoto StarNet desde teléfono").
 
-## Al activar ("modo calle", "salgo")
+## Al activar ("modo calle")
+
+Nota: en la PC ya existen `salida-corta` ("salgo un rato") y `turno-autonomo` ("me voy"). No uses
+"salgo" como activador para no chocar con ellas.
 
 1. Corre un **ciclo** (abajo).
 2. Si no hay tarea programada activa de MODO CALLE (`list_triggers`), créala: `create_trigger` sin
