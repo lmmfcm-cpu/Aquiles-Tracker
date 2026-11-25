@@ -10,11 +10,11 @@ Nota: el arte puede acompañar el bienestar, pero no reemplaza la atención psic
 
 **Texto:**
 ¿Arteterapia es "saber dibujar"? No. 🎨
-Es usar el proceso creativo (pintar, hacer collage, escribir, modelar) para entender lo que sientes.
+Es una práctica guiada por un/a profesional formado/a, que usa el proceso creativo (pintar, hacer collage, escribir, modelar) para explorar lo que sientes.
 No importa el resultado. Importa lo que descubres mientras creas.
 Guarda este post para cuando necesites un respiro. 💛
 
-**Hashtags:** #arteterapia #bienestaremocional #creatividad #saludmental #autoconocimiento
+**Hashtags:** #arteterapia #bienestaremocional #creatividad #autocuidado #autoconocimiento
 
 ---
 
@@ -57,7 +57,7 @@ Tres formas de usar el arte para calmarte:
 • Un collage con imágenes que te den calma
 No es magia, es atención plena con color.
 
-**Hashtags:** #mindfulness #reducirestres #arteterapia #calma #autocuidado
+**Hashtags:** #mindfulness #pausaconsciente #arteterapia #calma #autocuidado
 
 ---
 
@@ -68,7 +68,7 @@ No es magia, es atención plena con color.
 Un diario artístico no es solo escribir. 📓
 Mezcla palabras, dibujos, recortes y colores.
 Prueba esta noche: una página, una emoción, una imagen.
-Dentro de un mes, mira hacia atrás y verás tu propio mapa emocional.
+Dentro de un mes, mira hacia atrás y podrás ver tu propio mapa emocional.
 
 **Hashtags:** #diarioartistico #journaling #escrituracreativa #bienestar
 
@@ -83,7 +83,7 @@ Junta revistas viejas, fotos, palabras sueltas.
 Pega lo que te represente, lo que quieres soltar y lo que quieres cultivar.
 Crear para conocerse es una forma de cuidarse.
 
-**Hashtags:** #collage #identidad #arteterapia #autoconocimiento #creartambiensana
+**Hashtags:** #collage #identidad #arteterapia #autoconocimiento #crearparacuidarte
 
 ---
 
