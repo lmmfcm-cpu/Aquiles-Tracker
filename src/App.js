@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Plus, TrendingUp, Settings, Download, Home, BarChart3, Clock, Play, Pause, X, Cloud, AlertCircle, Music, Zap } from 'lucide-react';
+import { Plus, TrendingUp, Settings, Download, Home, BarChart3, Play, Pause, Cloud } from 'lucide-react';
 
 // Configuración de Google OAuth (reemplazar con tus credenciales)
 const GOOGLE_CLIENT_ID = 'YOUR_CLIENT_ID.apps.googleusercontent.com';
@@ -35,7 +35,7 @@ export default function EntrenadorAquiles() {
   const [entrenamientos, setEntrenamientos] = useState([]);
   const [googleAuth, setGoogleAuth] = useState(null);
   const [sincronizando, setSincronizando] = useState(false);
-  const [ejercicios, setEjercicios] = useState([
+  const [ejercicios] = useState([
     'Press de Banca', 'Prensa de Pierna', 'Jalones al Pecho', 'Sentadilla Libre',
     'P. Muerto Rumano', 'Curl de Bíceps', 'Remo en Máquina', 'Elevaciones Laterales',
     'Fondos', 'Curl Femoral', 'Abductores Apertura', 'Extensiones Cuádriceps',
